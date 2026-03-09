@@ -5,7 +5,7 @@
 - I'm a Software Developer who works across the MERN stack and backend technologies.  
 - Passionate about creating efficient, scalable, and user-friendly applications.  
 - Actively seeking opportunities to contribute to impactful and challenging projects.  
-- 🌱 Currently deepening my knowledge in **Docker, AWS, and System Design**.
+- 🌱 Currently deepening my knowledge in **Java Backend Development**.
 
 <br>
 
