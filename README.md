@@ -87,7 +87,7 @@ Here's a snapshot of the technologies I work with.
 
 ## 🔥 My Stats :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham2882&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham2882&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://saksham-github-stats.vercel.app/api?username=saksham2882&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://saksham-github-stats.vercel.app/api/top-langs?username=saksham2882&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham2882&theme=dark&hide_border=false" height="150" alt="streak graph" />
 </div><br>
