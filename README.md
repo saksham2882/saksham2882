@@ -12,66 +12,72 @@
 
 <br>
 
-## 🛠️ My Tech Stack
 
-Here's a snapshot of the technologies I work with.
+## 🛠️ Technologies & Tools
+
+Here's a snapshot of the languages, libraries, frameworks and tools I work with.
 
 <table>
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/> Java</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> TypeScript</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/> Next.js</td>
-</tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/> Java</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> TypeScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/> Next.js</td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="28"/> Angular</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/> HTML5</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/> CSS3</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28"/> Tailwind</td>
+    <td><img src="https://cdn.simpleicons.org/shadcnui/CDE000" width="28"/> Shadcn UI</td>
+    <td><img src="https://cdn.simpleicons.org/framer/0055FF" width="28"/> Framer Motion</td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="28"/> Spring Boot</td>
+    <td><img src="https://cdn.simpleicons.org/spring/6DB33F" width="28"/> Spring</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/> Node.js</td>
+    <td><img src="https://cdn.simpleicons.org/express/5F9ED3" width="28"/> Express</td>
+    <td><img src="https://cdn.simpleicons.org/spring/6DB33F" width="28"/> Spring Data JPA</td>
+    <td><img src="https://cdn.simpleicons.org/hibernate/59666C" width="28"/> Hibernate</td>
+  </tr>
   
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/> HTML5</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/> CSS3</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28"/> Tailwind</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="28"/> Redux</td>
-  <td><img src="https://cdn.simpleicons.org/framer/0055FF" width="28"/> Framer Motion</td>
-  <td><img src="https://cdn.simpleicons.org/shadcnui/CDE000" width="28"/> Shadcn UI</td>
-</tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/> MongoDB</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28"/> Firebase</td>
+    <td><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="28"/> Cloudinary</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="28"/> Redux</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="28"/> Mongoose</td>
+  </tr>
 
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/> Node.js</td>
-  <td><img src="https://cdn.simpleicons.org/express/5F9ED3" width="28"/> Express</td>
-  <td><img src="https://cdn.simpleicons.org/spring/6DB33F" width="28"/> Spring</td>
-  <td><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="28"/> Spring Boot</td>
-  <td><img src="https://cdn.simpleicons.org/spring/6DB33F" width="28"/> Spring Data JPA</td>
-  <td><img src="https://cdn.simpleicons.org/hibernate/59666C" width="28"/> Hibernate</td>
-</tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/socketdotio/F10101" width="28"/> Socket.io</td>
+    <td>🌐 REST API</td>
+    <td><img src="https://cdn.simpleicons.org/jsonwebtokens/CE0000" width="28"/> JWT</td>
+    <td><img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="28"/> Maven</td>
+    <td>🧪 Mockito</td>
+    <td><img src="https://cdn.simpleicons.org/junit5/25A162" width="28"/> JUnit</td>
+  </tr>
 
-<tr>
-  <td><img src="https://cdn.simpleicons.org/jsonwebtokens/CE0000" width="28"/> JWT</td>
-  <td><img src="https://cdn.simpleicons.org/junit5/25A162" width="28"/> JUnit</td>
-  <td>🧪 Mockito</td>
-  <td><img src="https://cdn.simpleicons.org/socketdotio/F10101" width="28"/> Socket.io</td>
-  <td>🌐 REST API</td>
-  <td><img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="28"/> Maven</td>
-</tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Git</td>
+    <td><img src="https://cdn.simpleicons.org/github/FFFF" width="28"/> GitHub</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> Docker</td>
+    <td><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="28"/> Gemini API</td>
+    <td><img src="https://cdn.simpleicons.org/vercel/FFFF" width="28"/> Vercel</td>
+    <td><img src="https://cdn.simpleicons.org/render/46E3B7" width="28"/> Render</td>
+  </tr>
 
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/> MongoDB</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28"/> Firebase</td>
-  <td><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="28"/> Cloudinary</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="28"/> Mongoose</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> Docker</td>
-</tr>
-
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Git</td>
-  <td><img src="https://cdn.simpleicons.org/github/FFFF" width="28"/> GitHub</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28"/> Postman</td>
-  <td><img src="https://cdn.simpleicons.org/intellijidea/5F9ED3" width="28"/> IntelliJ</td>
-  <td><img src="https://cdn.simpleicons.org/vercel/FFFF" width="28"/> Vercel</td>
-  <td><img src="https://cdn.simpleicons.org/render/46E3B7" width="28"/> Render</td>
-</tr>
-
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28"/> Postman</td>
+    <td><img src="https://cdn.simpleicons.org/intellijidea/5F9ED3" width="28"/> IntelliJ</td>
+  </tr>
 </table>
+
 
 <br>
 
@@ -95,9 +101,11 @@ Here's a snapshot of the technologies I work with.
   </a>
 </p>
 
+
 <br>
 
-## 🔥 My Stats :
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://saksham-github-stats.vercel.app/api?username=saksham2882&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://saksham-github-stats.vercel.app/api/top-langs?username=saksham2882&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
