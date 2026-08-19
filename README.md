@@ -74,14 +74,23 @@ Here's a snapshot of the technologies I work with.
 
 <br>
 
-## 🔗 Connect with Me
+## 🌐 Connect & Explore
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saksham-agrahari" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://saksham-agrahari.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+
+   <a href="mailto:agrahari0899@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://saksham-agrahari.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-%230A3000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://saksham-projects.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Projects_List-%230A0E77.svg?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
 </p>
 
