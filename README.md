@@ -4,10 +4,11 @@
 
 # Hi, I'm Saksham Agrahari 👋
 
-- I'm a Software Developer who works across the MERN stack and backend technologies.  
-- Passionate about creating efficient, scalable, and user-friendly applications.  
-- Actively seeking opportunities to contribute to impactful and challenging projects.  
-- 🌱 Currently deepening my knowledge in **Java Backend Development**.
+- 💻 Software Developer working with **Java, Spring Boot & Angular**, plus a solid **MERN stack** foundation  
+- 🧩 I've built and shipped multiple projects — from **backend systems to full-stack web apps**, solving real problems along the way  
+- ⚡ I integrate **AI into my dev workflow** to ship faster and learn smarter  
+- 📊 **650+ DSA problems** solved on LeetCode & GeeksforGeeks, with a solid foundation in data structures & algorithms  
+- 🚀 **Open to opportunities** where I can solve challenging, high-impact problems
 
 <br>
 
