@@ -1,6 +1,8 @@
-# Hi, I'm Saksham Agrahari 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saksham2882&label=Profile%20Views&color=000a76&style=flat" alt="Profile Views" />
+</p>
 
-<br>
+# Hi, I'm Saksham Agrahari 👋
 
 - I'm a Software Developer who works across the MERN stack and backend technologies.  
 - Passionate about creating efficient, scalable, and user-friendly applications.  
